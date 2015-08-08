@@ -1,0 +1,6 @@
+{
+  "name": "habit_100-client",
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}
